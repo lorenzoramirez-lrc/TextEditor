@@ -1,0 +1,5 @@
+#ifndef TEXTEDITOR_TERMINAL_H
+#define TEXTEDITOR_TERMINAL_H
+
+void AppInit();
+#endif //TEXTEDITOR_TERMINAL_H
