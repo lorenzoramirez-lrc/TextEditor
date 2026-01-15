@@ -1,6 +1,6 @@
 #include "terminal.h"
-#include<iostream>
 #include <ncurses.h>
+#include <string>
 #include "editor.h"
 
 WINDOW *newWindow(char *name) {
